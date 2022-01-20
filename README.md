@@ -1,9 +1,9 @@
-# F-win
+# F-Win (Functionally Windows)
 The "Functionally Windows" (or Fu*k Windows if you prefer) project is currently a consept at the moment that involves doing something similar to what wine does but backwards.
 
-Instead of building ground up this projects intentions are to slowly replace software in a emulated windows environment with a sort of API bridge through a virtual device and into host side applications, and to continue replacing files until we don't need the virtual environment to "boot" windows.
+Instead of building ground up this projects intentions are to slowly replace software in a emulated windows environment with a sort of API bridge through a virtual device and into host side applications, and to continue replacing files until we don't need the virtual environment anymore.
 
-Obviously we will start with a completely stripped down vision of the windows iso with only the applications that are absolutely required for operation, unfortunately that means anybody wanting to test this project will have to download and modify thier own windows iso (due to legal reasons), but i promises ill try to make this process as painless as the law will allow me to.
+Obviously we will start with a completely stripped down version of the windows iso with only the applications that are absolutely required for operation, unfortunately that means anybody wanting to test this project will have to download and modify thier own windows iso (due to legal reasons), but i promises ill try to make this process as painless as the law will allow me.
 
 ## Goals of this project
 
