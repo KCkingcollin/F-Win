@@ -7,7 +7,7 @@ Obviously we will start with a completely stripped down version of the windows i
 
 ## Goals of this project
 
-- [ ] #1. Decide on a version of Windows and get it in a virtual environment
+- [x] #1. Decide on a version of Windows and get it in a virtual environment
 
 - [ ] #2. Find out just how much software we can RIP out of our windows install while keeping it running smoothly
 
