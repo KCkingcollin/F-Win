@@ -11,7 +11,7 @@ Obviously we will start with a completely stripped down version of the windows i
 
 - [ ] #2. Find out just how much software we can RIP out of our windows install while keeping it running smoothly
 
-- [ ] #3. Code up our API access bridge virtual device (AABVD)
+- [ ] #3. Code up our virtual API bridge (VAB)
 
 - [ ] #4. Pass through, and convert Nvidia, AMD, and Intel graphics API to their respective Linux equivalents (this should also be the stage that we will be putting focus on game compatibility)
 
