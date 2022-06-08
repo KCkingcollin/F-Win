@@ -1,5 +1,5 @@
 # F-Win (Functionally Windows)
-The "Functionally Windows" (or Fu*k Windows if you prefer) project is currently a consept at the moment that involves doing something similar to what wine does but backwards.
+The "Functionally Windows" or "Func Win" project is currently a consept at the moment that involves doing something similar to what wine does but backwards.
 
 Instead of building ground up this projects intentions are to slowly replace software in a emulated windows environment with a sort of API bridge through a virtual device and into host side applications, and to continue replacing files until we don't need the virtual environment anymore.
 
@@ -15,11 +15,15 @@ Going with windows 10 for now
 
 - [ ] #3. Code up our virtual API bridge (VAB)
 
-- [ ] #4. Pass through, and convert Nvidia, AMD, and Intel graphics API to their respective Linux equivalents (this should also be the stage that we will be putting focus on game compatibility)
+- [ ] #4. Pass through, and convert Nvidia, AMD, and Intel graphics API to their respective Linux equivalents (this should also be the stage we start putting focus on game compatibility)
 
 - [ ] #5. Replace windows plug and play device control with Linux via VAB
 
 - [ ] #6. Create a driver for ext4 and btrfs support likely utilizing VAB
+
+- [ ] #6.5 Start working on an automatable emulation platform that isn't reliant on virtualization of cpu cores
+
+- [ ] #6.5.5 Release the first standalone stable build of the project (possibly releasing pre built packages if we can get around MS copyright some how)
 
 - [ ] #7. Release windows from the confineds of a disk image and remove the VAB dependency
 
