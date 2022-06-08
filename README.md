@@ -1,5 +1,5 @@
 # F-Win (Functionally Windows)
-The "Functionally Windows" or "Func Win" project is currently a consept at the moment that involves doing something similar to what wine does but backwards.
+The "Functionally Windows" or "Func Win" project is currently a concept/pipe dream at the moment that involves doing something similar to what wine does but backwards.
 
 Instead of building ground up this projects intentions are to slowly replace software in a emulated windows environment with a sort of API bridge through a virtual device and into host side applications, and to continue replacing files until we don't need the virtual environment anymore.
 
