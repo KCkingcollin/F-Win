@@ -1,4 +1,4 @@
-# Slated For Removal
+# So Far Removed Apps
 
 1. /C./Program Files/WindowsApps/Microsoft.BingWeather_4.46.32012.0_neutral_split.scale-100_8wekyb3d8bbwe
 2. /C./Program Files/WindowsApps/Microsoft.BingWeather_4.46.32012.0_x64__8wekyb3d8bbwe
@@ -29,21 +29,16 @@
 27. /C./Program Files/WindowsApps/Microsoft.MicrosoftStickyNotes_4.2.2.0_neutral_split.scale-100_8wekyb3d8bbwe
 28. /C./Program Files/WindowsApps/Microsoft.MicrosoftStickyNotes_4.2.2.0_neutral_~_8wekyb3d8bbwe
 29. /C./Program Files/WindowsApps/Microsoft.MicrosoftStickyNotes_4.2.2.0_x64__8wekyb3d8bbwe
-# Perma Removed
-
-1. /C./Windows/SystemApps/ParentalControls_cw5n1h2txyewy
-2. /C./Program Files/WindowsApps/Microsoft.YourPhone_1.22042.168.0_x64__8wekyb3d8bbwe
-3. /C./Program Files/WindowsApps/Microsoft.YourPhone_1.22042.168.0_neutral_~_8wekyb3d8bbwe
-4. /C./Program Files/WindowsApps/Microsoft.YourPhone_1.22042.168.0_neutral_split.scale-100_8wekyb3d8bbwe
-5. /C./Program Files/WindowsApps/Microsoft.WindowsCamera_2021.105.10.0_x64__8wekyb3d8bbwe
-6. /C./Program Files/WindowsApps/Microsoft.WindowsCamera_2021.105.10.0_neutral_~_8wekyb3d8bbwe
-7. /C./Program Files/WindowsApps/Microsoft.GamingServices_4.66.2001.0_x64__8wekyb3d8bbwe
-8. /C./Program Files/WindowsApps/Microsoft.GamingServices_4.66.2001.0_neutral_~_8wekyb3d8bbwe
-9. /C./Program Files/WindowsApps/Microsoft.GamingServices_3.59.11001.0_x64__8wekyb3d8bbwe
-10. /C./Program Files/WindowsApps/Microsoft.GamingServices_2.57.20005.0_x64__8wekyb3d8bbwe
-11. /C./Program Files/WindowsApps/Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe
+30. /C./Windows/SystemApps/ParentalControls_cw5n1h2txyewy
+31. /C./Program Files/WindowsApps/Microsoft.YourPhone_1.22042.168.0_x64__8wekyb3d8bbwe
+32. /C./Program Files/WindowsApps/Microsoft.YourPhone_1.22042.168.0_neutral_~_8wekyb3d8bbwe
+33. /C./Program Files/WindowsApps/Microsoft.YourPhone_1.22042.168.0_neutral_split.scale-100_8wekyb3d8bbwe
+34. /C./Program Files/WindowsApps/Microsoft.WindowsCamera_2021.105.10.0_x64__8wekyb3d8bbwe
+35. /C./Program Files/WindowsApps/Microsoft.WindowsCamera_2021.105.10.0_neutral_~_8wekyb3d8bbwe
+36. /C./Program Files/WindowsApps/Microsoft.GamingServices_4.66.2001.0_x64__8wekyb3d8bbwe
+37. /C./Program Files/WindowsApps/Microsoft.GamingServices_4.66.2001.0_neutral_~_8wekyb3d8bbwe
+38. /C./Program Files/WindowsApps/Microsoft.GamingServices_3.59.11001.0_x64__8wekyb3d8bbwe
+39. /C./Program Files/WindowsApps/Microsoft.GamingServices_2.57.20005.0_x64__8wekyb3d8bbwe
+40. /C./Program Files/WindowsApps/Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe
 
 
-# Most likely Temp Removal
-
-1.
