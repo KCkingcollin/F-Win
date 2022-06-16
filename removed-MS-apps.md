@@ -56,7 +56,6 @@
 54. `/C./ProgramData/Microsoft OneDrive`
 55. `/C./ProgramData/Packages`
 
-
 # Removed And Tested
 
 1. `/C./Program Files/WindowsApps/Microsoft.BingWeather_4.46.32012.0_neutral_split.scale-100_8wekyb3d8bbwe`
@@ -99,3 +98,18 @@
 38. `/C./Program Files/WindowsApps/Microsoft.GamingServices_3.59.11001.0_x64__8wekyb3d8bbwe`
 39. `/C./Program Files/WindowsApps/Microsoft.GamingServices_2.57.20005.0_x64__8wekyb3d8bbwe`
 40. `/C./Program Files/WindowsApps/Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe`
+41. `/C./Program Files (x86)/Internet Explorer`
+42. `/C./Program Files (x86)/Microsoft` (aka MS Edge)
+43. `/C./Program Files (x86)/Windows Mail`
+44. `/C./Program Files (x86)/Windows Media Player`
+45. `/C./Program Files (x86)/Windows Photo Viewer`
+46. `/C./Program Files/Internet Explorer`
+47. `/C./Program Files/Microsoft` (aka MS Edge)
+48. `/C./Program Files/Windows Mail`
+49. `/C./Program Files/Windows Media Player`
+50. `/C./Program Files/Windows Photo Viewer`
+51. `/C./ProgramData/Microsoft/EdgeUpdate` 
+52. `/C./ProgramData/Microsoft/GamingServices`
+53. `/C./ProgramData/Microsoft/XboxLive`
+54. `/C./ProgramData/Microsoft OneDrive`
+55. `/C./ProgramData/Packages`
