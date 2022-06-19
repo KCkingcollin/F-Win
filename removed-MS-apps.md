@@ -55,7 +55,67 @@
 53. `/C./ProgramData/Microsoft/XboxLive`
 54. `/C./ProgramData/Microsoft OneDrive`
 55. `/C./ProgramData/Packages`
-
+56. `/C./Program Files (x86)/Windows Defender`
+57. `/C./Program Files/Windows Defender`
+58. `/C./Program Files/WindowsApps/Microsoft.MixedReality.Portal_2000.21051.1282.0_neutral_split.scale-100_8wekyb3d8bbwe`
+59. `/C./Program Files/WindowsApps/Microsoft.MixedReality.Portal_2000.21051.1282.0_neutral_~_8wekyb3d8bbwe`
+60. `/C./Program Files/WindowsApps/Microsoft.MixedReality.Portal_2000.21051.1282.0_x64__8wekyb3d8bbwe`
+61. `/C./Program Files/WindowsApps/Microsoft.MSPaint_2022.2203.1037.0_neutral_~_8wekyb3d8bbwe`
+62. `/C./Program Files/WindowsApps/Microsoft.MSPaint_6.2203.1037.0_x64__8wekyb3d8bbwe`
+63. `/C./Program Files/WindowsApps/Microsoft.Office.OneNote_16001.14326.20458.0_x64__8wekyb3d8bbwe`
+64. `/C./Program Files/WindowsApps/Microsoft.Office.OneNote_16001.14326.20838.0_neutral_~_8wekyb3d8bbwe`
+65. `/C./Program Files/WindowsApps/Microsoft.Office.OneNote_16001.14326.20838.0_x64__8wekyb3d8bbwe`
+66. `/C./Program Files/WindowsApps/Microsoft.People_10.2105.4.0_neutral_split.scale-100_8wekyb3d8bbwe`
+67. `/C./Program Files/WindowsApps/Microsoft.People_10.2105.4.0_x64__8wekyb3d8bbwe`
+68. `/C./Program Files/WindowsApps/Microsoft.People_2021.2105.4.0_neutral_~_8wekyb3d8bbwe`
+69. `/C./Program Files/WindowsApps/Microsoft.ScreenSketch_10.2008.2277.0_neutral_split.scale-100_8wekyb3d8bbwe`
+70. `/C./Program Files/WindowsApps/Microsoft.ScreenSketch_10.2008.2277.0_x64__8wekyb3d8bbwe`
+71. `Microsoft.ScreenSketch_2020.814.2355.0_neutral_~_8wekyb3d8bbwe`
+72. `/C./Program Files/WindowsApps/Microsoft.SkypeApp_15.75.140.0_x86__kzf8qxf38zg5c`
+73. `/C./Program Files/WindowsApps/Microsoft.SkypeApp_15.80.194.0_neutral_~_kzf8qxf38zg5c`
+74. `/C./Program Files/WindowsApps/Microsoft.SkypeApp_15.80.194.0_x86__kzf8qxf38zg5c`
+75. `/C./Program Files/WindowsApps/Microsoft.Wallet_2.4.18324.0_neutral_~_8wekyb3d8bbwe`
+76. `/C./Program Files/WindowsApps/Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe`
+77. `/C./Program Files/WindowsApps/Microsoft.WebMediaExtensions_1.0.42192.0_neutral_split.scale-100_8wekyb3d8bbwe`
+78. `/C./Program Files/WindowsApps/Microsoft.WebMediaExtensions_1.0.42192.0_neutral_~_8wekyb3d8bbwe`
+79. `/C./Program Files/WindowsApps/Microsoft.WebMediaExtensions_1.0.42192.0_x64__8wekyb3d8bbwe`
+80. `/C./Program Files/WindowsApps/Microsoft.WebpImageExtension_1.0.42351.0_x64__8wekyb3d8bbwe`
+81. `/C./Program Files/WindowsApps/Microsoft.Windows.Photos_2021.21090.10007.0_x64__8wekyb3d8bbwe`
+82. `/C./Program Files/WindowsApps/Microsoft.Windows.Photos_2022.30060.3006.0_neutral_split.scale-100_8wekyb3d8bbwe`
+83. `/C./Program Files/WindowsApps/Microsoft.Windows.Photos_2022.30060.3006.0_neutral_~_8wekyb3d8bbwe`
+84. `/C./Program Files/WindowsApps/Microsoft.Windows.Photos_2022.30060.3006.0_x64__8wekyb3d8bbwe`
+85. `/C./Program Files/WindowsApps/Microsoft.WindowsAlarms_10.2101.28.0_neutral_split.scale-100_8wekyb3d8bbwe`
+86. `/C./Program Files/WindowsApps/Microsoft.WindowsAlarms_10.2101.28.0_x64__8wekyb3d8bbwe`
+87. `/C./Program Files/WindowsApps/Microsoft.WindowsAlarms_2021.2101.28.0_neutral_~_8wekyb3d8bbwe`
+88. `/C./Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.14326.20544.0_neutral_~_8wekyb3d8bbwe`
+89. `/C./Program Files/WindowsApps/microsoft.windowscommunicationsapps_16005.14326.20544.0_x64__8wekyb3d8bbwe`
+90. `/C./Program Files/WindowsApps/Microsoft.WindowsMaps_10.2104.2.0_neutral_split.scale-100_8wekyb3d8bbwe`
+91. `/C./Program Files/WindowsApps/Microsoft.WindowsMaps_10.2104.2.0_x64__8wekyb3d8bbwe`
+92. `/C./Program Files/WindowsApps/Microsoft.WindowsMaps_2021.2104.2.0_neutral_~_8wekyb3d8bbwe`
+93. `/C./Program Files/WindowsApps/Microsoft.WindowsSoundRecorder_10.2103.28.0_x64__8wekyb3d8bbwe`
+94. `/C./Program Files/WindowsApps/Microsoft.WindowsSoundRecorder_2021.2103.28.0_neutral_~_8wekyb3d8bbwe`
+95. `/C./Program Files/WindowsApps/Microsoft.Xbox.TCUI_1.24.10001.0_neutral_~_8wekyb3d8bbwe`
+96. `/C./Program Files/WindowsApps/Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe`
+97. `/C./Program Files/WindowsApps/Microsoft.XboxApp_48.86.28002.0_neutral_~_8wekyb3d8bbwe`
+98. `/C./Program Files/WindowsApps/Microsoft.XboxApp_48.86.28002.0_x64__8wekyb3d8bbwe`
+99. `/C./Program Files/WindowsApps/Microsoft.XboxGameOverlay_1.54.4001.0_neutral_split.scale-100_8wekyb3d8bbwe`
+100. `/C./Program Files/WindowsApps/Microsoft.XboxGameOverlay_1.54.4001.0_neutral_~_8wekyb3d8bbwe`
+101. `/C./Program Files/WindowsApps/Microsoft.XboxGameOverlay_1.54.4001.0_x64__8wekyb3d8bbwe`
+102. `/C./Program Files/WindowsApps/Microsoft.XboxGamingOverlay_5.721.9201.0_x64__8wekyb3d8bbwe`
+103. `/C./Program Files/WindowsApps/Microsoft.XboxGamingOverlay_5.722.5052.0_neutral_split.scale-100_8wekyb3d8bbwe`
+104. `/C./Program Files/WindowsApps/Microsoft.XboxGamingOverlay_5.722.5052.0_neutral_~_8wekyb3d8bbwe`
+105. `/C./Program Files/WindowsApps/Microsoft.XboxGamingOverlay_5.722.5052.0_x64__8wekyb3d8bbwe`
+106. `/C./Program Files/WindowsApps/Microsoft.XboxIdentityProvider_12.85.31001.0_neutral_~_8wekyb3d8bbwe`
+107. `/C./Program Files/WindowsApps/Microsoft.XboxIdentityProvider_12.85.31001.0_x64__8wekyb3d8bbwe`
+108. `/C./Program Files/WindowsApps/Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_neutral_split.scale-100_8wekyb3d8bbwe`
+109. `/C./Program Files/WindowsApps/Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_neutral_~_8wekyb3d8bbwe`
+110. `/C./Program Files/WindowsApps/Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe`
+111. `/C./Program Files/WindowsApps/Microsoft.ZuneMusic_10.21102.11411.0_neutral_split.scale-100_8wekyb3d8bbwe`
+112. `/C./Program Files/WindowsApps/Microsoft.ZuneMusic_10.21102.11411.0_x64__8wekyb3d8bbwe`
+113. `/C./Program Files/WindowsApps/Microsoft.ZuneMusic_2019.21102.11411.0_neutral_~_8wekyb3d8bbwe`
+114. `/C./Program Files/WindowsApps/Microsoft.ZuneVideo_10.22011.10031.0_neutral_split.scale-100_8wekyb3d8bbwe`
+115. `/C./Program Files/WindowsApps/Microsoft.ZuneVideo_10.22011.10031.0_x64__8wekyb3d8bbwe`
+116. `/C./Program Files/WindowsApps/Microsoft.ZuneVideo_2019.22011.10031.0_neutral_~_8wekyb3d8bbwe`
 # Removed And Tested
 
 1. `/C./Program Files/WindowsApps/Microsoft.BingWeather_4.46.32012.0_neutral_split.scale-100_8wekyb3d8bbwe`
