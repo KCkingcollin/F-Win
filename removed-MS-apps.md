@@ -260,3 +260,28 @@
 114. `/C:/Program Files/WindowsApps/Microsoft.ZuneVideo_10.22011.10031.0_neutral_split.scale-100_8wekyb3d8bbwe`
 115. `/C:/Program Files/WindowsApps/Microsoft.ZuneVideo_10.22011.10031.0_x64__8wekyb3d8bbwe`
 116. `/C:/Program Files/WindowsApps/Microsoft.ZuneVideo_2019.22011.10031.0_neutral_~_8wekyb3d8bbwe`
+117. `/C:/Program Files/Windows Defender Advanced Threat Protection`
+118. `/C:/Program Files/Windows Security`
+119. `/C:/ProgramData/Packages/Microsoft.GamingApp_8wekyb3d8bbwe`
+120. `/C:/ProgramData/Packages/Microsoft.GamingServices_8wekyb3d8bbwe`
+121. `/C:/ProgramData/Packages/Microsoft.Microsoft3DViewer_8wekyb3d8bbwe`
+122. `/C:/ProgramData/Packages/Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe`
+123. `/C:/ProgramData/Packages/Microsoft.MixedReality.Portal_8wekyb3d8bbwe`
+124. `/C:/ProgramData/Packages/Microsoft.Office.OneNote_8wekyb3d8bbwe`
+125. `/C:/ProgramData/Packages/Microsoft.SkypeApp_kzf8qxf38zg5c`
+126. `/C:/ProgramData/Packages/Microsoft.Windows.Photos_8wekyb3d8bbwe`
+127. `/C:/ProgramData/Packages/Microsoft.WindowsStore_8wekyb3d8bbwe`
+128. `/C:/ProgramData/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe`
+129. `/C:/ProgramData/Packages/Microsoft.YourPhone_8wekyb3d8bbwe`
+130. `/C:/ProgramData/Microsoft/AppV/Setup/OfficeIntegrator.ps1`
+131. `/C:/ProgramData/Microsoft/Crypto`
+132. `/C:/ProgramData/Microsoft/GamingServices`
+133. `/C:/ProgramData/Microsoft/MapData`
+134. `/C:/ProgramData/Microsoft/SmsRouter`
+135. `/C:/ProgramData/Microsoft/Windows Defender`
+136. `/C:/ProgramData/Microsoft/Windows Defender Advanced Threat Protection`
+137. `/C:/ProgramData/Microsoft/Windows Security Health`
+138. `/C:/ProgramData/Microsoft/Windows/OneSettings`
+139. `/C:/ProgramData/Microsoft/Windows/Parental Controls`
+140. `/C:/ProgramData/Microsoft/Windows/Start Menu`
+141. `/C:/ProgramData/Microsoft/Windows/WindowsApps`
